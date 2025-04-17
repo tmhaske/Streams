@@ -41,7 +41,7 @@ Advanced
 11. Calculate the product of all numbers in the array using reduce 
 12.implement a parallel stream that computes the sum of squares of numbers in an array.   
   
-Custom 
+Custom :
     Basic :
         1. Find all employees from a specific city and get the count                   
         2. Find all employees where salary is greater than a particular value           
